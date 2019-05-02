@@ -1,3 +1,4 @@
+var line = 0
 function takeANumber(katzDeliLine) {
   
   line += 1
