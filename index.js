@@ -10,6 +10,9 @@ takeANumber(arr) // 1
 takeANumber(arr) // 2
 takeANumber(arr) // 3
 reset()
+takeANumber(arr) // 1
+takeANumber(arr) // 2
+takeANumber(arr) // 3
 function reset(){
   line = 0
 }
