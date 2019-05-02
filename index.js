@@ -9,6 +9,10 @@ const arr = []
 takeANumber(arr) // 1
 takeANumber(arr) // 2
 takeANumber(arr) // 3
+takeANumber(arr) // 3
+takeANumber(arr) // 3
+takeANumber(arr) // 3
+takeANumber(arr) // 3
 reset()
 takeANumber(arr) // 1
 takeANumber(arr) // 2
