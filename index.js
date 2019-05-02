@@ -32,5 +32,7 @@ function currentLine(katzDeliLine) {
 // Above line returns 'The line is currently: 1. name, 2. name, 3. name
 }
 
+console.log(currentLine(["Bill", "Jane", "Ann"]))
+
 // Outputs 'The line is currently: 1. Bill, 2. Jane, 3. Ann 
 
