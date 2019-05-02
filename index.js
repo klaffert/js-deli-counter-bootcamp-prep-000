@@ -2,8 +2,12 @@ function takeANumber(katzDeliLine) {
   var line = 1
   line += 1
   katzDeliLine.push(line)
-  return `Welcome, You are number ${line}.`
+  console.log(`Welcome, You are number ${line}.`)
 }
+const arr = []
+takeANumber(arr) // 1
+takeANumber(arr) // 2
+takeANumber(arr) // 3
 
 // Since the deli is empty, Ada is first in line.
 // Since there are already people in line, Grace is number 4 in line.
