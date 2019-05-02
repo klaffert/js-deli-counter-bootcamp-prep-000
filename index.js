@@ -1,5 +1,5 @@
 function takeANumber(katzDeliLine) {
-  var line = 1
+  var line = 0
   line += 1
   katzDeliLine.push(line)
   console.log(`Welcome, You are number ${line}.`)
