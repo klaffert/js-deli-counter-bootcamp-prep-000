@@ -33,6 +33,7 @@ function currentLine(katzDeliLine) {
 }
 
 console.log(currentLine(["Bill", "Jane", "Ann"]))
+console.log(currentLine(["Alex", "Laura", "Kate"]))
 
 // Outputs 'The line is currently: 1. Bill, 2. Jane, 3. Ann 
 
