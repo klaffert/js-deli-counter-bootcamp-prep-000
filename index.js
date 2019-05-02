@@ -3,7 +3,6 @@ function takeANumber(katzDeliLine,name) {
   return `Welcome, ${name}. You are number ${katzDeliLine.length} in line.`
 }
 
-<<<<<<< HEAD
 // Since the deli is empty, Ada is first in line.
 // Since there are already people in line, Grace is number 4 in line.
 // Multiple people have been added to the line and they are given their number in line as they are queued up. 
@@ -34,7 +33,4 @@ function currentLine(katzDeliLine) {
 }
 
 // Outputs 'The line is currently: 1. Bill, 2. Jane, 3. Ann 
-=======
 
-// 
->>>>>>> 088f91641f819339334309160550aa3985f3aae9
